@@ -49,9 +49,9 @@
 > 프로젝트
 >
 > - "메타버스 서비스에서 VR/AR 장비 보안 강화 모델 제안"
-> - !["디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발"](https://github.com/apfl99/NftArtPortfolio)
-> - !["흔치 않은, 듣기 좋은 노래 추천 사이트 개발"](https://github.com/apfl99/smu_hackaton-music-recommendation)
-> - !["유튜브 광고 중개 플랫폼 개발"](https://github.com/apfl99/BEB-06-Ad4U)
+> - <a href="https://github.com/apfl99/NftArtPortfolio">"디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발"</a>
+> - <a href="https://github.com/apfl99/smu_hackaton-music-recommendation">"흔치 않은, 듣기 좋은 노래 추천 사이트 개발"</a>
+> - <a href="https://github.com/apfl99/BEB-06-Ad4U">"유튜브 광고 중개 플랫폼 개발"</a>
 
 
 
