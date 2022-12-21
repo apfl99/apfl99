@@ -9,7 +9,7 @@
 
 ## By the way here are some of my statistics 🚀
 ![apfl99's github stats](https://github-readme-stats.vercel.app/api?username=apfl99&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apfl99&theme=tokyonight" alt="mystreak"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=apfl99&theme=tokyonight" alt="mystreak"/> -->
 ![apfl99's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apfl99&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning android in dicoding.com with kotlin
