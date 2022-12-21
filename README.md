@@ -61,18 +61,17 @@
 > - 전술C4I운용/정비병 at ROK Army 27th Infantry Division, Korea (Jun. 2019 ~ Dec. 2020)
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 기술 스택
 
 
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## some of my statistics 🚀
 ![apfl99's github stats](https://github-readme-stats.vercel.app/api?username=apfl99&show_icons=true&theme=tokyonight)![apfl99's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apfl99&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning to Proof of Stake in Vitalik Buterin.
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
