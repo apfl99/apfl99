@@ -17,17 +17,15 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-asthiseta@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rmrehd604@gmail.com)](rmrehd604@gmail.com)
+📫 [![Gmail Badge](https://img.shields.io/badge/-rmrehd604@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:rmrehd604@gmail.com)](rmrehd604@gmail.com)
 
 
 <h2 align="center"><a href="https://youtu.be/frszEJb0aOo?t=4">"General Kenobi"</a></h2>
 <h6 align="center">Made with ❤️ by Me (probably)</h6>
 
 ------
-Credit: [AkuraDiary](https://github.com/AkuraDiary)
 
-Last Edited on: 21/08/2021
-<!--
+
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -40,4 +38,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
