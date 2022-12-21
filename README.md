@@ -38,26 +38,27 @@
 
 
 
-### 프로젝트 & 연구
+### 연구 & 프로젝트
 
-
->연구 논문
+> 연구, 논문
 >
->- HyunWoo Kim, JunHyeok Lee, Wonhyung Park, "Cloud HSM와 edge-DRM Proxy를 활용한 안전한 원격근무 환경 강화 연구", 융합보안논문지 21권 3호, (2021)
->- "**원격근무 환경에서** **비지도학습** **기반** **DDoS** **공격 탐지 알고리즘 비교 연구** "
->- "디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발"
+> - HyunWoo Kim, JunHyeok Lee, Wonhyung Park, "Cloud HSM와 edge-DRM Proxy를 활용한 안전한 원격근무 환경 강화 연구", 융합보안논문지 21권 3호, 25-30p **KCI등재** (2021)
+> - HyunWoo Kim, JunHyeok Lee, JiHoo Hwang, "원격근무 환경에서의 비지도학습 기반 DDoS 공격 탐지 알고리즘 비교 연구" (2021)
+> - HyunWoo Kim, BeomSeok Kim, JaeSeong Choi, ChangJin Seo, "디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발", 대한전기학회 워크샵, 75-76p (2022)
 
 > 프로젝트
 >
 > - "메타버스 서비스에서 VR/AR 장비 보안 강화 모델 제안"
-> - "디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발"
-> - "흔치 않은, 듣기 좋은 노래 추천 사이트 개발"
+> - !["디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발"](https://github.com/apfl99/NftArtPortfolio)
+> - !["흔치 않은, 듣기 좋은 노래 추천 사이트 개발"](https://github.com/apfl99/smu_hackaton-music-recommendation)
+> - !["유튜브 광고 중개 플랫폼 개발"](https://github.com/apfl99/BEB-06-Ad4U)
 
 
 
 ### 경력
 
-> - 보안프로젝트 인턴 2개월(2021.07~08)
+> - 보안프로젝트 인턴 1개월(2021.07~08)
+> - 전술C4I운용/정비병 at ROK Army 27th Infantry Division, Korea (Jun. 2019 ~ Dec. 2020)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
