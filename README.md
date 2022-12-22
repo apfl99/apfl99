@@ -79,6 +79,8 @@
 <img src="https://img.shields.io/badge/aws rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
 <img src="https://img.shields.io/badge/aws cloudwatch-527FFF?style=for-the-badge&logo=amazoncloudwatch&logoColor=black">
 <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
+<img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">
+<img src="https://img.shields.io/badge/virtual Box-183A61?style=for-the-badge&logo=virtualbox&logoColor=black">
 </div>
 
 
