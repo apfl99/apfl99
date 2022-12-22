@@ -74,7 +74,7 @@
 </div>
 
 <div>
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=black">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=black">
 <img src="https://img.shields.io/badge/aws s3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
 <img src="https://img.shields.io/badge/aws rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
 <img src="https://img.shields.io/badge/aws cloudwatch-527FFF?style=for-the-badge&logo=amazoncloudwatch&logoColor=black">
