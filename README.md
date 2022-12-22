@@ -97,11 +97,12 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
   <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="http://wiki.hash.kr/index.php/%ED%8C%8C%EC%9D%BC:%ED%8A%B8%EB%9F%AC%ED%94%8C_%EB%A1%9C%EA%B3%A0.png-000000?style=for-the-badge&logo=.&logoColor=white">
+  <img src="https://img.shields.io/badge/truffle-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
 
 <div>
   <img src="https://img.shields.io/badge/ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=black">
+  <img src="https://img.shields.io/badge/klaytn-000000?style=for-the-badge&logo=klaytn&logoColor=white">
 </div>
 
 
