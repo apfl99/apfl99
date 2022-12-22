@@ -73,6 +73,14 @@
 <img src="https://img.shields.io/badge/liunx-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div>
 
+<div>
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=black">
+<img src="https://img.shields.io/badge/aws s3-569A31?style=for-the-badge&logo=amazons3&logoColor=black">
+<img src="https://img.shields.io/badge/aws rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
+<img src="https://img.shields.io/badge/aws cloudwatch-527FFF?style=for-the-badge&logo=amazoncloudwatch&logoColor=black">
+<img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
+</div>
+
 
 
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> 
