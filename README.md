@@ -80,7 +80,7 @@
 <img src="https://img.shields.io/badge/aws cloudwatch-527FFF?style=for-the-badge&logo=amazoncloudwatch&logoColor=black">
 <img src="https://img.shields.io/badge/aws ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black">
-<img src="https://img.shields.io/badge/virtual Box-183A61?style=for-the-badge&logo=virtualbox&logoColor=black">
+<img src="https://img.shields.io/badge/virtual Box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white">
 <img src="https://img.shields.io/badge/vmware-607078?style=for-the-badge&logo=vmware&logoColor=white">
 </div>
 
