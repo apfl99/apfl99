@@ -42,14 +42,14 @@
 
 > 연구, 논문
 >
-> - HyunWoo Kim, JunHyeok Lee, Wonhyung Park, "가상 데스크톱 서비스(DaaS)를 활용한 안전한 원격근무 환경 강화 방안" (2021)
-> - HyunWoo Kim, JunHyeok Lee, Wonhyung Park, "Cloud HSM와 edge-DRM Proxy를 활용한 안전한 원격근무 환경 강화 연구", 융합보안논문지 21권 3호, 25-30p **KCI등재** (2021)
-> - HyunWoo Kim, JunHyeok Lee, JiHoo Hwang, "원격근무 환경에서의 비지도학습 기반 DDoS 공격 탐지 알고리즘 비교 연구" (2021)
-> - HyunWoo Kim, BeomSeok Kim, JaeSeong Choi, ChangJin Seo, "디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발", 대한전기학회 워크샵, 75-76p (2022)
+> - <a href="https://drive.google.com/file/d/1p7p8geFmQo-qDJdz4C3opvITWVhQ8CEV/view?usp=share_link">HyunWoo Kim, JunHyeok Lee, Wonhyung Park, "가상 데스크톱 서비스(DaaS)를 활용한 안전한 원격근무 환경 강화 방안" (2021)</a>
+> - <a href="https://scienceon.kisti.re.kr/srch/selectPORSrchArticle.do?cn=JAKO202129857865066&SITE=CLICK">HyunWoo Kim, JunHyeok Lee, Wonhyung Park, "Cloud HSM와 edge-DRM Proxy를 활용한 안전한 원격근무 환경 강화 연구", 융합보안논문지 21권 3호, 25-30p **KCI등재** (2021)</a>
+> - <a href="https://drive.google.com/file/d/1A8IXGZMqLXItkCxyH01AVabxqnvVdhhB/view?usp=share_link">HyunWoo Kim, JunHyeok Lee, JiHoo Hwang, "원격근무 환경에서의 비지도학습 기반 DDoS 공격 탐지 알고리즘 비교 연구" (2021)</a>
+> - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11142928">HyunWoo Kim, BeomSeok Kim, JaeSeong Choi, ChangJin Seo, "디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발", 대한전기학회 워크샵, 75-76p (2022)</a>
 
 > 프로젝트
 >
-> - "메타버스 서비스에서 VR/AR 장비 보안 강화 모델 제안"
+> - <a href="https://drive.google.com/file/d/15-K9C49zjm4E7alKVhb6sfueTHs-3J00/view?usp=share_link">"메타버스 서비스에서 VR/AR 장비 보안 강화 모델 제안"</a>
 > - <a href="https://github.com/apfl99/NftArtPortfolio">"디지털 저작물 위변조 방지를 위한 NFT 아트 포트폴리오 개발"</a>
 > - <a href="https://github.com/apfl99/smu_hackaton-music-recommendation">"흔치 않은, 듣기 좋은 노래 추천 사이트 개발"</a>
 > - <a href="https://github.com/apfl99/BEB-06-Ad4U">"유튜브 광고 중개 플랫폼 개발"</a>
