@@ -19,6 +19,9 @@ M.Eng. in Blockchain Convergence, Hanyang University (2025), with research in BF
 
 ## Experience and case studies
 
-My résumé covers roles and outcomes; my portfolio walks through the problems, decisions, and validation behind them. Both are available in Korean via [email](mailto:rmrehd604@gmail.com).
+- [Résumé (Korean)](https://app.notion.com/p/4087ff6b6c1081dc99a7da83e5637bdc) — roles and outcomes.
+- [Portfolio (Korean)](https://app.notion.com/p/4087ff6b6c1081ec9e07ce1fc1e6c46f) — problems, decisions, and validation.
 
 Public work contributions: [KimHyunwoo-99](https://github.com/KimHyunwoo-99). This is my personal profile.
+
+[Email](mailto:rmrehd604@gmail.com)
