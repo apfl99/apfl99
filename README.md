@@ -1,32 +1,24 @@
 # Hyunwoo Kim · 김현우
 
-**Blockchain Core Engineer | Go · Cosmos SDK · CometBFT · IBC**
+**Blockchain Core Engineer | Transaction correctness · Incident response · Protocol validation**
 
-I build and validate blockchain state transitions, with a focus on cross-chain settlement, fee accounting, and reliable execution. My work connects protocol implementation with node operations, controlled experiments, and incident analysis.
+I build transaction, fee, settlement, and refund logic for Cosmos-based chains. At Gurufin, I work across core implementation, source-level incident resolution, and validation of protocol changes.
 
-## Current work
+## What I bring
 
-At Gurufin, I have worked on Cosmos-based core development and network operations since November 2025. My experience includes:
+- **Cross-chain transaction correctness.** Owned FX core development for a public testnet spanning **7 chains**, including settlement and failure refunds. Integrated it with wallet and explorer services and supported deployment and monitoring. [Refund tracking](https://github.com/gurufinglobal/guru/pull/66) · [Subsequent FX integration](https://github.com/gurufinglobal/guru/pull/75)
+- **Source-level incident resolution.** Traced missing EVM receipt logs to an upstream storage-format change, fixed RPC decoding, and deployed the fix to the operating Sentry environment. Also implemented bounded gas/fee recovery for failing relayers, with backups, cooldowns, and rollback.
+- **Execution and policy validation.** Reduced shared fee-account contention, improving median independent-transfer throughput by **3.3× in an in-memory execution/commit benchmark**, excluding network consensus and persistent storage. Checked sequential/parallel state equivalence and used same-account transfers as a control. Also contributed fee and validator policies to the public mainnet release candidate. [Fee accounting](https://github.com/gurufinglobal/guru/pull/78) · [Policy boundaries](https://github.com/gurufinglobal/guru/pull/87)
+- **Protocol security research.** Analyzed consensus, IBC, and state/accounting failure paths. The **Cosmos project team acknowledged the technical validity of 8 reports**: **2 Medium Confirmed** and **6 duplicate or previously known issues**, submitted through Immunefi and project-team review.
 
-- Implementing cross-chain exchange, settlement, and failure-refund flows.
-- Separating transaction-specific fee records from shared balance updates to reduce contention in parallel execution.
-- Validating execution equivalence through application hashes, balances, nonces, events, and subsequent block state.
-- Preparing Genesis and state-export policies, and investigating issues across core code, RPC behavior, and node operations.
+## Background
 
-## Selected engineering work
+M.Eng. in Blockchain Convergence, Hanyang University (2025), with research in BFT execution, optimistic concurrency control, and sharding. I also built multi-chain RPC integrations and wallet backend APIs during graduate research collaborations.
 
-The public implementation references below were contributed through my work account, [KimHyunwoo-99](https://github.com/KimHyunwoo-99). My main profile is [apfl99](https://github.com/apfl99).
+**Core stack:** Go · Cosmos SDK / EVM · CometBFT · IBC / Hermes
 
-- [Cross-chain FX integration](https://github.com/gurufinglobal/guru/pull/75): exchange policy, asynchronous settlement, and refund handling.
-- [Fee collection for parallel execution](https://github.com/gurufinglobal/guru/pull/78): shared-state contention and block-end settlement.
-- [Zero-height export](https://github.com/gurufinglobal/guru/pull/88): explicit preservation, reset, and rejection policies for state migration.
+## Experience and case studies
 
-## Research background
+My résumé covers roles and outcomes; my portfolio walks through the problems, decisions, and validation behind them. Both are available in Korean via [email](mailto:rmrehd604@gmail.com).
 
-I hold a Master of Engineering in Blockchain Convergence from Hanyang University (2025), where I studied BFT execution, optimistic concurrency control, and sharding. I have also worked on multi-chain RPC infrastructure and wallet backend APIs through a graduate research collaboration.
-
-## Areas of interest
-
-Protocol engineering, research engineering, cross-chain interoperability, financial state consistency, and protocol security research.
-
-[GitHub](https://github.com/apfl99) · [Email](mailto:rmrehd604@gmail.com)
+Public work contributions: [KimHyunwoo-99](https://github.com/KimHyunwoo-99). This is my personal profile.
