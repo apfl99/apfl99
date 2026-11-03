@@ -2,9 +2,7 @@
 
 **Blockchain Core Engineer | Protocol Security · Transaction Correctness · Incident Response**
 
-[Personal GitHub: apfl99](https://github.com/apfl99) · [Work contributions: KimHyunwoo-99](https://github.com/KimHyunwoo-99) · [Email](mailto:rmrehd604@gmail.com)
-
-**Notion:** [Résumé (English)](https://app.notion.com/p/4087ff6b6c108104a0f5c8cc50513fb2) · [Portfolio (English)](https://app.notion.com/p/4087ff6b6c1081da8ee5c1b24e507279)
+[Work contributions: KimHyunwoo-99](https://github.com/KimHyunwoo-99) · [Email](mailto:rmrehd604@gmail.com)
 
 I work on Go/Cosmos core development at Gurufin. I analyze protocol failures, build cross-chain settlement and refund logic, and take testnet fixes from source-level diagnosis through regression testing and deployment.
 
@@ -31,7 +29,3 @@ Master's degree in Blockchain Computing and Cryptoeconomics, Hanyang University 
 
 **Core stack:** Go · Cosmos SDK / EVM · CometBFT · IBC / Hermes
 
-## Experience and case studies
-
-- **Résumé:** [English](https://app.notion.com/p/4087ff6b6c108104a0f5c8cc50513fb2) · [한국어](https://app.notion.com/p/4087ff6b6c1081dc99a7da83e5637bdc) — roles and outcomes.
-- **Portfolio:** [English](https://app.notion.com/p/4087ff6b6c1081da8ee5c1b24e507279) · [한국어](https://app.notion.com/p/4087ff6b6c1081ec9e07ce1fc1e6c46f) — problems, decisions, and validation.
