@@ -1,6 +1,6 @@
 # Engineering evidence and validation scope
 
-This page connects my Notion [résumé](https://app.notion.com/p/4087ff6b6c108104a0f5c8cc50513fb2) and [portfolio](https://app.notion.com/p/4087ff6b6c1081da8ee5c1b24e507279) to selected public engineering work at Gurufin. The three PRs below were authored through my [work account, KimHyunwoo-99](https://github.com/KimHyunwoo-99), and are merged. I use [apfl99](https://github.com/apfl99) as my personal account.
+Selected public engineering work at Gurufin, with contribution boundaries, implementation details, and validation conditions. The three PRs below were authored through my [work account, KimHyunwoo-99](https://github.com/KimHyunwoo-99), and are merged. I use [apfl99](https://github.com/apfl99) as my personal account.
 
 ## FX settlement and refund recovery
 
@@ -16,7 +16,7 @@ Useful evidence:
 
 The public Validation checklist records `git diff --check` as complete; the listed test, lint, and generation commands remain unchecked. Test code is available, but that checklist should not be read as a record that every listed command passed.
 
-The seven-chain testnet operation described in my résumé and the later three-chain FX integration checks are separate scopes.
+The seven-chain testnet operation and the later three-chain FX integration checks are separate scopes.
 
 ## Parallel fee settlement
 
@@ -24,7 +24,7 @@ The seven-chain testnet operation described in my résumé and the later three-c
 
 The public tests cover sequential/parallel state equivalence, same-block visibility, mixed Cosmos/EVM execution, and fee deduction behavior. The [benchmark source at the PR revision](https://github.com/gurufinglobal/guru/blob/3879c6ee561c4de083b844faa1b87339d5790740/app/blockstm_cosmos_virtual_fee_benchmark_test.go) includes independent-payer and same-account workloads.
 
-The result summarized in my résumé has this scope:
+The measured benchmark result has this scope:
 
 | Item | Measurement scope |
 | --- | --- |
