@@ -1,6 +1,6 @@
 # Engineering evidence and validation scope
 
-This page connects my [résumé](https://app.notion.com/p/4087ff6b6c108104a0f5c8cc50513fb2) to selected public engineering work at Gurufin. The three PRs below were authored through my [work account, KimHyunwoo-99](https://github.com/KimHyunwoo-99), and are merged. I use [apfl99](https://github.com/apfl99) as my personal account.
+This page connects my Notion [résumé](https://app.notion.com/p/4087ff6b6c108104a0f5c8cc50513fb2) and [portfolio](https://app.notion.com/p/4087ff6b6c1081da8ee5c1b24e507279) to selected public engineering work at Gurufin. The three PRs below were authored through my [work account, KimHyunwoo-99](https://github.com/KimHyunwoo-99), and are merged. I use [apfl99](https://github.com/apfl99) as my personal account.
 
 ## FX settlement and refund recovery
 
