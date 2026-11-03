@@ -4,6 +4,8 @@
 
 [Personal GitHub: apfl99](https://github.com/apfl99) · [Work contributions: KimHyunwoo-99](https://github.com/KimHyunwoo-99) · [Email](mailto:rmrehd604@gmail.com)
 
+**Notion:** [Résumé (English)](https://app.notion.com/p/4087ff6b6c108104a0f5c8cc50513fb2) · [Portfolio (English)](https://app.notion.com/p/4087ff6b6c1081da8ee5c1b24e507279)
+
 I work on Go/Cosmos core development at Gurufin. I analyze protocol failures, build cross-chain settlement and refund logic, and take testnet fixes from source-level diagnosis through regression testing and deployment.
 
 ## Core strengths
