@@ -43,6 +43,10 @@ The PR contains the implementation and benchmark harness, but does not publish t
 
 The PR documents successful tests on a dedicated IDC runner, including root/Oracle test suites, race checks, module verification, focused regressions, and opt-in four-validator acceptance checks. It distinguishes these checks from overall release approval and records known boundaries.
 
+**Current v2.1 scope.** Guru v2.1.0-rc.1 is a code release candidate; the current v2.1 testnet and mainnet have not launched. My local multi-node validation used an earlier candidate build.
+
+**Remaining implementation gap.** [PR #86](https://github.com/gurufinglobal/guru/pull/86) enforces the EVM denomination policy [at genesis](https://github.com/gurufinglobal/guru/blob/9e575a36ad447e48ad8ad288ec4ca12a9f594c9c/app/genesis.go#L355). The governance-authorized runtime `MsgUpdateParams` path still does not reject changes to `EvmDenom`, a nil `ExtendedDenomOptions`, or changes to `ExtendedDenom`. This remains unresolved in the RC's pinned EVM dependency: [update handler](https://github.com/gurufinglobal/evm/blob/50a7a48cc422596dc360e3be35c671a243ce4d92/x/vm/keeper/msg_server.go#L122) and [parameter validation](https://github.com/gurufinglobal/evm/blob/50a7a48cc422596dc360e3be35c671a243ce4d92/x/vm/types/params.go#L99).
+
 <details>
 <summary>Public CI status at the PR revision, checked November 3, 2026</summary>
 
