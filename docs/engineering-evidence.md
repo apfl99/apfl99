@@ -48,6 +48,6 @@ The PR documents successful tests on a dedicated IDC runner, including root/Orac
 
 The 12 check runs show 9 successful, 2 failed, and 1 skipped result. The failed [root](https://github.com/gurufinglobal/guru/actions/runs/33580514520/job/100093610818) and [Oracle](https://github.com/gurufinglobal/guru/actions/runs/33580514520/job/100093610676) Govulncheck jobs stopped during tool installation: Govulncheck v1.7.0 requires Go 1.25 or later, while the runner used Go 1.23.8 with `GOTOOLCHAIN=local`.
 
-Those failures are toolchain compatibility errors, not reported vulnerability findings. The public race/fuzz job was skipped; the separate IDC race-test result is documented in the PR body. The public CI record should not be described as entirely green.
+Full job logs require GitHub sign-in. Those failures are toolchain compatibility errors, not reported vulnerability findings. The public race/fuzz job was skipped; the separate IDC race-test result is documented in the PR body. The public CI record should not be described as entirely green.
 
 </details>
